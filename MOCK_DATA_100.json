@@ -1,4 +1,7 @@
-[
+{
+  "total": 800,
+  "totalNotFiltered": 800,
+  "rows": [
   {
     "id": 1,
     "first_name": "Mose",
@@ -2000,3 +2003,4 @@
     "username": "imuskett2r"
   }
 ]
+}
